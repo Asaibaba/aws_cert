@@ -1,2 +1,2 @@
 # aws_cert
-Learnig AWS devops
+Learnig AWS Certified DevOps Engineer – Professional
